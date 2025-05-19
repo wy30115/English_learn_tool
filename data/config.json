@@ -1,0 +1,30 @@
+{
+    "window": {
+        "opacity": 0.67,
+        "size": [
+            200,
+            250
+        ]
+    },
+    "study": {
+        "daily_words": 10,
+        "difficulty_range": [
+            2,
+            5
+        ],
+        "reminder_time": "08:00"
+    },
+    "display": {
+        "theme": "dark",
+        "font_size": 14
+    },
+    "startup": {
+        "auto_start": false,
+        "start_minimized": false,
+        "minimize_to_tray": true
+    },
+    "review": {
+        "auto_review": true,
+        "remind_method": 0
+    }
+}

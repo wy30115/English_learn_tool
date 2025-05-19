@@ -1,0 +1,97 @@
+word,phonetic,pos,definition,example,frequency,difficulty
+apple,/ˈæpl/,n.,苹果,"An apple a day keeps the doctor away.",5,1
+book,/bʊk/,n.,书本,"I'm reading a good book.",5,1
+cat,/kæt/,n.,猫,"The cat is sleeping on the sofa.",5,1
+dog,/dɒɡ/,n.,狗,"She has a pet dog.",5,1
+egg,/eɡ/,n.,鸡蛋,"I had eggs for breakfast.",5,1
+friend,/frend/,n.,朋友,"She is my best friend.",5,1
+good,/ɡʊd/,adj.,好的,"That's a good idea.",5,1
+house,/haʊs/,n.,房子,"They live in a big house.",5,1
+important,/ɪmˈpɔːtnt/,adj.,重要的,"This is an important meeting.",4,2
+job,/dʒɒb/,n.,工作,"He has a new job.",5,1
+key,/kiː/,n.,钥匙,"I lost my house key.",5,1
+love,/lʌv/,n./v.,爱/爱,"I love my family.",5,1
+money,/ˈmʌni/,n.,钱,"I need to save some money.",5,1
+name,/neɪm/,n.,名字,"What's your name?",5,1
+orange,/ˈɒrɪndʒ/,n./adj.,橙子/橙色的,"I like orange juice.",5,1
+people,/ˈpiːpl/,n.,人们,"There are many people here.",5,1
+question,/ˈkwestʃən/,n.,问题,"Can I ask you a question?",5,1
+right,/raɪt/,adj./n.,正确的/权利,"You're right about that.",5,1
+study,/ˈstʌdi/,v./n.,学习/研究,"I need to study for my exam.",5,1
+time,/taɪm/,n.,时间,"What time is it?",5,1
+university,/ˌjuːnɪˈvɜːsəti/,n.,大学,"She studies at the university.",4,2
+voice,/vɔɪs/,n.,声音,"She has a beautiful voice.",4,2
+water,/ˈwɔːtə(r)/,n.,水,"I need a glass of water.",5,1
+xylophone,/ˈzaɪləfəʊn/,n.,木琴,"She can play the xylophone.",2,3
+year,/jɪə(r)/,n.,年,"It happened last year.",5,1
+zero,/ˈzɪərəʊ/,n.,零,"The temperature is below zero.",4,2
+achieve,/əˈtʃiːv/,v.,达成,"She achieved her goal.",3,2
+beautiful,/ˈbjuːtɪfl/,adj.,美丽的,"It's a beautiful day.",5,1
+computer,/kəmˈpjuːtə(r)/,n.,电脑,"I need a new computer.",5,1
+develop,/dɪˈveləp/,v.,发展,"They need to develop new skills.",4,2
+experience,/ɪkˈspɪəriəns/,n.,经验,"He has a lot of experience.",4,2
+family,/ˈfæməli/,n.,家庭,"Family is important.",5,1
+government,/ˈɡʌvənmənt/,n.,政府,"The government announced new policies.",3,2
+happy,/ˈhæpi/,adj.,快乐的,"She looks happy today.",5,1
+information,/ˌɪnfəˈmeɪʃn/,n.,信息,"I need more information.",4,2
+journey,/ˈdʒɜːni/,n.,旅程,"It was a long journey.",4,2
+knowledge,/ˈnɒlɪdʒ/,n.,知识,"He has a lot of knowledge about history.",4,2
+language,/ˈlæŋɡwɪdʒ/,n.,语言,"English is a global language.",4,2
+meeting,/ˈmiːtɪŋ/,n.,会议,"We have a meeting tomorrow.",5,1
+number,/ˈnʌmbə(r)/,n.,数字,"What's your phone number?",5,1
+opportunity,/ˌɒpəˈtjuːnəti/,n.,机会,"This is a great opportunity.",3,2
+problem,/ˈprɒbləm/,n.,问题,"There's a problem with the system.",5,1
+quality,/ˈkwɒləti/,n.,质量,"This product is of high quality.",4,2
+research,/rɪˈsɜːtʃ/,n./v.,研究,"She is doing research on climate change.",3,2
+student,/ˈstjuːdnt/,n.,学生,"He is a university student.",5,1
+teacher,/ˈtiːtʃə(r)/,n.,教师,"My math teacher is excellent.",5,1
+understand,/ˌʌndəˈstænd/,v.,理解,"Do you understand the question?",5,1
+value,/ˈvæljuː/,n.,价值,"Education has great value.",4,2
+work,/wɜːk/,n./v.,工作,"I have to work tomorrow.",5,1
+young,/jʌŋ/,adj.,年轻的,"They are still young.",5,1
+ability,/əˈbɪləti/,n.,能力,"She has the ability to lead.",4,2
+balance,/ˈbæləns/,n.,平衡,"It's important to have work-life balance.",4,2
+challenge,/ˈtʃæləndʒ/,n.,挑战,"This is a big challenge.",4,2
+decision,/dɪˈsɪʒn/,n.,决定,"It was a difficult decision.",4,2
+environment,/ɪnˈvaɪrənmənt/,n.,环境,"We need to protect the environment.",3,2
+future,/ˈfjuːtʃə(r)/,n.,未来,"What are your plans for the future?",4,2
+global,/ˈɡləʊbl/,adj.,全球的,"Climate change is a global issue.",3,2
+health,/helθ/,n.,健康,"Health is more important than wealth.",5,1
+idea,/aɪˈdɪə/,n.,想法,"That's a great idea!",5,1
+justice,/ˈdʒʌstɪs/,n.,正义,"We all want justice.",3,2
+kindness,/ˈkaɪndnəs/,n.,善良,"She showed kindness to strangers.",4,2
+learn,/lɜːn/,v.,学习,"I want to learn a new language.",5,1
+method,/ˈmeθəd/,n.,方法,"This is an effective teaching method.",4,2
+nature,/ˈneɪtʃə(r)/,n.,自然,"I love being in nature.",5,1
+option,/ˈɒpʃn/,n.,选择,"We have several options.",4,2
+progress,/ˈprəʊɡres/,n.,进步,"She's making good progress.",4,2
+quality,/ˈkwɒləti/,n.,质量,"Quality is more important than quantity.",4,2
+reason,/ˈriːzn/,n.,原因,"What's the reason for this change?",5,1
+success,/səkˈses/,n.,成功,"Hard work leads to success.",4,2
+technology,/tekˈnɒlədʒi/,n.,技术,"Technology is changing our lives.",4,2
+unique,/juˈniːk/,adj.,独特的,"Everyone is unique.",3,2
+view,/vjuː/,n.,观点/风景,"I have a different view on this issue.",4,2
+world,/wɜːld/,n.,世界,"It's a small world.",5,1
+example,/ɪɡˈzɑːmpl/,n.,例子,"Can you give me an example?",5,1
+youth,/juːθ/,n.,青年,"The youth are our future.",4,2
+zone,/zəʊn/,n.,区域,"This is a no-parking zone.",3,2
+analysis,/əˈnæləsɪs/,n.,分析,"We need to do a detailed analysis.",3,2
+benefit,/ˈbenɪfɪt/,n.,好处,"There are many benefits to exercise.",4,2
+culture,/ˈkʌltʃə(r)/,n.,文化,"I'm interested in different cultures.",4,2
+describe,/dɪˈskraɪb/,v.,描述,"Can you describe what happened?",5,1
+effort,/ˈefət/,n.,努力,"It takes a lot of effort.",4,2
+focus,/ˈfəʊkəs/,n./v.,焦点/集中,"You need to focus on your studies.",4,2
+growth,/ɡrəʊθ/,n.,成长,"Personal growth is important.",3,2
+history,/ˈhɪstri/,n.,历史,"I'm studying world history.",4,2
+interest,/ˈɪntrəst/,n.,兴趣,"What are your interests?",5,1
+journey,/ˈdʒɜːni/,n.,旅程,"Life is a journey.",4,2
+knowledge,/ˈnɒlɪdʒ/,n.,知识,"Knowledge is power.",4,2
+leader,/ˈliːdə(r)/,n.,领导,"She is a great leader.",4,2
+memory,/ˈmeməri/,n.,记忆,"I have a good memory.",4,2
+network,/ˈnetwɜːk/,n.,网络,"Social networks are popular now.",4,2
+organize,/ˈɔːɡənaɪz/,v.,组织,"I need to organize my schedule.",4,2
+pressure,/ˈpreʃə(r)/,n.,压力,"Don't put too much pressure on yourself.",4,2
+question,/ˈkwestʃən/,n.,问题,"Ask questions if you don't understand.",5,1
+respect,/rɪˈspekt/,n./v.,尊重,"We should respect others.",4,2
+strength,/streŋθ/,n.,力量,"What are your strengths and weaknesses?",4,2
+together,/təˈɡeðə(r)/,adv.,一起,"Let's work together.",5,1 
