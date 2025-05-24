@@ -41,7 +41,7 @@
 
 ### 从可执行文件运行
 
-1. 下载最新的发布版本
+1. 下载最新的发布版本:[v0.0.1](https://github.com/wy30115/English_learn_tool/releases/download/v0.0.1/english_learn_tool.zip)
 2. 解压后直接运行`每日单词.exe`
 
 ## 构建应用
